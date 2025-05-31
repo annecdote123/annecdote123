@@ -1,4 +1,4 @@
-👋 Hi, I’m **@annecdote123**  
+👋 Hi, I’m -Annie Paul -**@annecdote123**  
 ✨ *Turning ideas into code, one anecdote at a time.*  
 
 ---
