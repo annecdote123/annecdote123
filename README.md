@@ -1,6 +1,6 @@
-# Hi, I'm Annie Paul (@annecdote123) 👋
+# Hi, I'm Annie Paul-@annecdote123
 
-🚀 Turning ideas into code, one anecdote at a time.
+🚀 Turning ideas into code, one annecdote at a time.
 
 ## 🛠️ Skills & Interests
 
@@ -12,7 +12,7 @@
 
 - ✉️ Email: [anniepaulgeorge@gmail.com](mailto:anniepaulgeorge@gmail.com)  
 - 💼 LinkedIn: [Annie Paul George](https://www.linkedin.com/in/anniepaulgeorge/)  
-- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle) (if applicable)
+
 
 ## 🌟 GitHub Stats
 
