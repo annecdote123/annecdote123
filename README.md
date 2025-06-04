@@ -25,14 +25,8 @@
 | **UNITY SERVE** | NGO platform with microservices | `Firestore` `React` `Node.js` |
 | **Autism Detection** | DL and Neuroimaging based diagnosis | `DBN` `CNN` |
 
-</div>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/annecdote123/annecdote123/output/snake.svg" alt="Snake animation">
-</div>
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/annecdote123/count.svg?"  />
-  
+
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=annecdote123&show_icons=true&theme=radical&count_private=true">
